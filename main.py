@@ -7,5 +7,6 @@ class MyAI(Alg3D):
         self,
         board: List[List[List[int]]],
         player: int,
-        last_move: Tuple[int, int, int]:
+        last_move: Tuple[int, int, int]
+    ) -> Tuple[int, int]:
         # ここにアルゴリズムを書く
