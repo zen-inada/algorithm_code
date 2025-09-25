@@ -1,5 +1,5 @@
 from typing import List, Tuple
-#rom local_driver import Alg3D, Board   # ローカル検証用
+#from local_driver import Alg3D, Board   # ローカル検証用
 from framework import Alg3D, Board
 
 class MyAI(Alg3D):
