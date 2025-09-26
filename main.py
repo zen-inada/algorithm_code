@@ -10,3 +10,4 @@ class MyAI(Alg3D):
         last_move: Tuple[int, int, int] # 直前に置かれた場所(x, y, z)
     ) -> Tuple[int, int]:
         # ここにアルゴリズムを書く
+        return(1,1)
